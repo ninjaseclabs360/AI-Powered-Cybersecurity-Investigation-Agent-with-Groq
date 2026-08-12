@@ -5,4 +5,4 @@
 
 ## GROQ AND VIRUSTOTAL INTEGRATION 
 
-![VIRUSTOTAL Diagram](groqandvirustotal.png)
+![VIRUSTOTAL Diagram](virustotal.png)
